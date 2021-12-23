@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\satranc\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\ASUS\Desktop\satranc\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+C:\Users\ASUS\Desktop\satranc\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\ASUS\Desktop\satranc\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\satranc\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Form1.resources
+C:\Users\ASUS\Desktop\satranc\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\ASUS\Desktop\satranc\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\satranc\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+C:\Users\ASUS\Desktop\satranc\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
